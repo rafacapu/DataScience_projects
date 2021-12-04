@@ -1,7 +1,7 @@
 # Projects
 Hi, i am Rafael, and this is my datascience projects portfolio.
 
-First part is about data analysis and insights.
+ The First part is about data analysis and insights.
 
 
 - ### Data Analysis and Visualisation
