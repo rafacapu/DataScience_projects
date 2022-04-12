@@ -3,6 +3,9 @@ Olá, eu sou o Rafael,
 Sou engenheiro mecatrônico e cientista de dados, este é o meu portfolio de projetos.
 
 
+<p align="center">
+  <img src="banner.png" >
+</p>
 
 
 - ### Data Analysis and Visualisation
