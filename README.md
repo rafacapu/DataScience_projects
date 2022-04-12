@@ -9,6 +9,8 @@ Olá, eu sou o Rafael,
 Sou engenheiro mecatrônico e cientista de dados, este é o meu portfolio de projetos.
 
 
+* [LinkedIn](https://www.linkedin.com/in/rafael-capuano-mecatronics/)
+
 
 - ### Data Analysis and Visualisation
 	- __Python__
