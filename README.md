@@ -1,9 +1,10 @@
 # Projects
-Hi, i am Rafael, and this is my datascience projects portfolio.
+Olá, eu sou o Rafael,
+Sou engenheiro mecatrônico e cientista de dados, este é o meu portfolio de projetos.
 
- The First part is about data analysis and insights.
+
 
 
 - ### Data Analysis and Visualisation
 	- __Python__
-  -[EDA prices of cab apps](https://github.com/rafacapu/DataScience_projects/blob/main/an%C3%A1lise%20corridas.ipynb)
+  -[Análise de preços de aplicativos de carona](https://github.com/rafacapu/DataScience_projects/blob/main/An%C3%A1lise%20apps%20de%20carona.ipynb
