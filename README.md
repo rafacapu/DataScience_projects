@@ -1,11 +1,13 @@
 # Projetos de data science.
-Olá, eu sou o Rafael,
-Sou engenheiro mecatrônico e cientista de dados, este é o meu portfolio de projetos.
-
-
 <p align="center">
   <img src="banner.png" >
 </p>
+
+
+
+Olá, eu sou o Rafael,
+Sou engenheiro mecatrônico e cientista de dados, este é o meu portfolio de projetos.
+
 
 
 - ### Data Analysis and Visualisation
