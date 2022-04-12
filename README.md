@@ -1,4 +1,4 @@
-# Projects
+# Projetos de data science.
 Olá, eu sou o Rafael,
 Sou engenheiro mecatrônico e cientista de dados, este é o meu portfolio de projetos.
 
