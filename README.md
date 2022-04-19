@@ -2,14 +2,13 @@
 
 
 
-# Projetos de data science.
+
 <p align="center">
   <img src="banner.png" >
 </p>
 
 
 
-## Rafael Capuano
 <sub>Engenheiro Mecatrônico e data scientist </sub>
 
 Engenheiro com uma enorme paixão por dados e data science, sou formado em engenheria mecatrônica pela universidade federal do rio grande do norte(UFRN) e atualmente curso pós graduação Iato Sensu pela Pontifícia universidade católica de mina gerais(PUC-MG).
@@ -19,8 +18,7 @@ Engenheiro com uma enorme paixão por dados e data science, sou formado em engen
 
 
 ## Projetos:
--Lista de projetos em Jupyter Notebook:
-
+Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning
   
   -[Análise de preços de aplicativos de carona](https://github.com/rafacapu/DataScience_projects/blob/main/An%C3%A1lise%20apps%20de%20carona.ipynb)
 
