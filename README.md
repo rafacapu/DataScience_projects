@@ -9,7 +9,7 @@
 
 
 
-# Rafael Capuano
+## Rafael Capuano
 <sub>Engenheiro Mecatrônico e data scientist </sub>
 
 Engenheiro com uma enorme paixão por dados e data science, sou formado em engenheria mecatrônica pela universidade federal do rio grande do norte(UFRN) e atualmente curso pós graduação Iato Sensu pela Pontifícia universidade católica de mina gerais(PUC-MG).
@@ -18,7 +18,7 @@ Engenheiro com uma enorme paixão por dados e data science, sou formado em engen
 * [LinkedIn](https://www.linkedin.com/in/rafael-capuano-mecatronics/)
 
 
-# Projetos:
+## Projetos:
 Lista de projetos em Jupyter Notebook:
 
   
