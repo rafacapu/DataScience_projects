@@ -19,7 +19,7 @@ Engenheiro com uma enorme paixão por dados e data science, sou formado em engen
 
 
 ## Projetos:
-Lista de projetos em Jupyter Notebook:
+-Lista de projetos em Jupyter Notebook:
 
   
   -[Análise de preços de aplicativos de carona](https://github.com/rafacapu/DataScience_projects/blob/main/An%C3%A1lise%20apps%20de%20carona.ipynb)
