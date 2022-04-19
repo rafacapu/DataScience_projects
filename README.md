@@ -25,4 +25,4 @@ Sou engenheiro com uma enorme paixão por dados e data science, sou formado em e
 
   -[Análise dados do netflix](https://github.com/rafacapu/DataScience_projects/blob/main/an%C3%A1lise%20netflix.ipynb)
 
-  -[Machine Learning para detecção de diabetes]
+  -[Machine Learning para detecção de diabetes](https://github.com/rafacapu/DataScience_projects/blob/main/Predi%C3%A7%C3%A3o%20diabetes.ipynb)
