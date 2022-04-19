@@ -12,7 +12,7 @@
 # Rafael Capuano
 <sub>Engenheiro Mecatrônico  com pós graduação em data science e big data</sub>
 
-Sou engenheiro com uma enorme paixão por dados e data science, sou formado em engenheria mecatrônica pela universidade federal do rio grande do norte(UFRN) com pós graduação pela Pontifícia universidade católica de mina gerais(PUC-MG).
+Sou engenheiro com uma enorme paixão por dados e data science, sou formado em engenheria mecatrônica pela universidade federal do rio grande do norte(UFRN) e atualmente curso pós graduação Iato Sensu pela Pontifícia universidade católica de mina gerais(PUC-MG).
 
 
 * [LinkedIn](https://www.linkedin.com/in/rafael-capuano-mecatronics/)
