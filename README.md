@@ -25,4 +25,4 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e 
 
   -[Análise dados do netflix](https://github.com/rafacapu/DataScience_projects/blob/main/an%C3%A1lise%20netflix.ipynb)
 
-  -[Machine Learning para detecção de diabetes](https://github.com/rafacapu/DataScience_projects/blob/main/Predi%C3%A7%C3%A3o%20diabetes%20(1).ipynb)
+  -[Machine Learning para detecção de diabetes](https://github.com/rafacapu/DataScience_projects/blob/main/Modelo_Predi%C3%A7%C3%A3o%20diabetes%20.ipynb)
