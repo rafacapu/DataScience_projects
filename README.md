@@ -14,9 +14,10 @@
 ## Sobre mim:
 Engenheiro com uma enorme paixão por dados e data science, sou formado em engenheria mecatrônica pela universidade federal do rio grande do norte(UFRN) e atualmente curso pós graduação Iato Sensu pela Pontifícia universidade católica de mina gerais(PUC-MG).
 
+ email: rafacapuano@gmail.com
  
 * [LinkedIn](https://www.linkedin.com/in/rafael-capuano-mecatronics/)
-* email:rafacapuano@gmail.com
+
 
 ## Projetos:
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning.
