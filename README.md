@@ -24,7 +24,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e 
   
   -[Análise de preços de aplicativos de carona](https://github.com/rafacapu/DataScience_projects/blob/main/An%C3%A1lise%20apps%20de%20carona.ipynb)
 
-  -[Análise dados do netflix](https://github.com/rafacapu/DataScience_projects/blob/main/an%C3%A1lise%20netflix.ipynb)
+  -[Análise dados do netflix](https://github.com/rafacapu/DataScience_projects/blob/main/an%C3%A1lise%20netflix%20_final.ipynb)
 
   -[Machine Learning para detecção de diabetes](https://github.com/rafacapu/DataScience_projects/blob/main/Predi%C3%A7%C3%A3o%20diabetes_final.ipynb)
   
