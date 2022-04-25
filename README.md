@@ -16,7 +16,7 @@ Engenheiro com uma enorme paixão por dados e data science, sou formado em engen
 
  
 * [LinkedIn](https://www.linkedin.com/in/rafael-capuano-mecatronics/)
-
+* [email](rafacapuano@gmail.com)
 
 ## Projetos:
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning.
