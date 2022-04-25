@@ -28,4 +28,6 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e 
 
   -[Machine Learning para detecção de diabetes](https://github.com/rafacapu/DataScience_projects/blob/main/Predi%C3%A7%C3%A3o%20diabetes_final.ipynb)
   
-  -[Machine Learning para vendas de NFT's](https://github.com/rafacapu/DataScience_projects/blob/main/NFT_Vendas.ipynb)
+  -[Machine Learning para vendas de NFT's](https://github.com/rafacapu/DataScience_projects/blob/main/NFT_Vendas%20_final.ipynb)
+   
+  -[EDA e previsão da demanda de vendas do Wallmart](https://github.com/rafacapu/DataScience_projects/blob/main/Predi%C3%A7%C3%A3o%20demanda.ipynb)
