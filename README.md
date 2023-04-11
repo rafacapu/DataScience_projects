@@ -22,7 +22,7 @@ Engenheiro com uma enorme paixão por dados e data science, sou formado em engen
 ## Projetos:
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning.
  
-   -[Classificar imagens de satélite usando deep learning](https://github.com/rafacapu/DataScience_projects/blob/main/sat%C3%A9lites.ipynb)
+   -[Classificar imagens de satélite usando deep learning](https://github.com/rafacapu/DataScience_projects/blob/main/Classificador_imagens.ipynb)
    
   -[Análise de preços de aplicativos de carona](https://github.com/rafacapu/DataScience_projects/blob/main/An%C3%A1lise%20apps%20de%20carona.ipynb)
 
